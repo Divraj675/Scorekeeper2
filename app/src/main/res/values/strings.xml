@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scorekeeper</string>
+    <string name="Scorekeeper">Score-Keeper</string>
+    <string name="Score2">Score-2</string>
+    <string name="Score1">Score-1</string>
+    <string name="btn">+1</string>
+    <string name="btn2">-1</string>
+    <string name="btn3">+1</string>
+    <string name="btn4">-1</string>
+    <string name="scorekeeper">Score-keeper</string>
+</resources>
